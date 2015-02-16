@@ -1,0 +1,5 @@
+C:\Users\Ömer\documents\visual studio 2012\Projects\VigenereApp\VigenereFreq\bin\Debug\VigenereFreq.exe
+C:\Users\Ömer\documents\visual studio 2012\Projects\VigenereApp\VigenereFreq\bin\Debug\VigenereFreq.pdb
+C:\Users\Ömer\documents\visual studio 2012\Projects\VigenereApp\VigenereFreq\obj\Debug\VigenereFreq.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\documents\visual studio 2012\Projects\VigenereApp\VigenereFreq\obj\Debug\VigenereFreq.exe
+C:\Users\Ömer\documents\visual studio 2012\Projects\VigenereApp\VigenereFreq\obj\Debug\VigenereFreq.pdb
